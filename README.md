@@ -1,6 +1,8 @@
 ### olá Sou Felipe Wiaczorek!
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+
+
+         
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Wiaczorekff&show_icons=true&theme=dark"
@@ -44,7 +46,6 @@
   <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/felipe-wiaczorek-08a17a183/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
-
+![Bottom Animation](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 
