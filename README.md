@@ -22,6 +22,7 @@
 
 
 
+
 - 🔭 Atualmente procurando colocação no mercado
 - 🌱 estudando Sistemas para internet
 - 😄 Pronouns: Dev
